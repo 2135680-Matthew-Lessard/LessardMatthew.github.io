@@ -1,0 +1,30 @@
+h1{
+    color:red;
+    font-size:3em;
+    text-align: center;
+}
+
+span{
+    font-size:2em;
+    text-align:justify;
+}
+
+p{
+    text-align: justify;
+}
+
+#premiereLettre{
+    color: purple;
+}
+
+.premiereLettre2{
+    color: green;
+}
+
+#consigne{
+    font-size: 1em;
+}
+
+#consigne:hover{
+    color: gold;
+}
